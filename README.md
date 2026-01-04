@@ -58,8 +58,7 @@ WiFi Direct is **10-17× cheaper** than Cloud over 5 years (€80 vs €800-1400
 
 Open Cisco Packet Tracer 9, load simulation files, and observe automation scenarios across different architectures.
 
-## Authors
-
-Chemlali Ibtihal • Abdessadek Fatima-zahra • Elguerrab Wiaam
-
+- **[@ibtihalch](https://github.com/ibtihalch)** - Chemlali Ibtihal
+- **Abdessadek Fatima-zahra**
+- **[@wiaamelguerrab](https://github.com/wiaamelguerrab)** - Elguerrab Wiaam
 **Supervised by:** M. BAKKAS | ENSAM - Meknès | 2025-2026
